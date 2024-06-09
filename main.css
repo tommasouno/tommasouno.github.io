@@ -1,0 +1,19 @@
+h1 {
+    font-size: 64px;
+    text-align: center;
+}
+
+#telegram_logo {
+    width: 200px;
+    height: 200px;
+    align-content: center;
+
+}
+
+.presentation {
+    text-align: justify;
+}
+
+#whoami_h2 {
+    text-align: center;
+}
