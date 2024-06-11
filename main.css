@@ -1,19 +1,33 @@
+* {
+    background-color: aquamarine;
+}
 h1 {
     font-size: 64px;
     text-align: center;
+    padding: 1ch;
+    margin: auto;
 }
 
-#telegram_logo {
-    width: 200px;
-    height: 200px;
-    align-content: center;
+h2 {
+    font-size: 44px;
+    text-align: center;
+}
 
+h3 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.telegramlogo {
+    position:
+    width: 55px;
+    height: 55px;;
 }
 
 .presentation {
     text-align: justify;
 }
 
-#whoami_h2 {
+.whoamih2 {
     text-align: center;
 }
