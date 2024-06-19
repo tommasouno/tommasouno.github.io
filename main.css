@@ -1,33 +1,56 @@
 * {
-    background-color: aquamarine;
+    background-color: whitesmoke;
 }
 h1 {
-    font-size: 64px;
     text-align: center;
-    padding: 1ch;
+    padding: 1rem;
     margin: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
 h2 {
-    font-size: 44px;
     text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 h3 {
-    font-size: 30px;
+    text-align: justify;
+    margin-top: 3rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.MacBook {
     text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .telegramlogo {
-    position:
-    width: 55px;
-    height: 55px;;
-}
+    text-align: center;
+    width: 50px;
+    height: auto;
 
+}
 .presentation {
+    
+    margin-left: 50px;
+    margin-right: 50px;
     text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .whoamih2 {
     text-align: center;
+}
+.contactme {
+    padding: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: smaller;
+    margin: 1ch;
+}
+.other {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 1cm;
+}
+.copyright{
+    
+    padding:1rem;
 }
