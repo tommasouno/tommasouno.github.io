@@ -1,2 +1,2 @@
 # Website
-**My first Website on GitHub Private Repository**
+**My first Website on GitHub Repository**
