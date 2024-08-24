@@ -1,24 +1,25 @@
 html {
-    background-color: whitesmoke;
+    background-color: rgb(245, 245, 245);
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 h1 {
     text-align: center;
-    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+
     padding: 10px 40px 20px 40px;
 }
 
-#telegramlogo {
-    width: 150px;
-    height: auto;
-    padding: 20px;
-    border-top: 0.5rem;
-    border-left: 0.5rem;
-    margin: 0.5rem;
+#placeholder_text {
+    text-align: center;
+    padding: 1em
 }
 
-.copyright {
-    padding: 1rem;
-    border: 1rem;
+#telegramlogo {
+    width: 50px;
+    height: auto;
+    padding: 20px;
+    border-top: 0.1rem;
+    border-left: 0.1rem;
+    margin: 0.1rem;
 }
