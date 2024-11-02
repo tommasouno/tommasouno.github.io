@@ -6,20 +6,23 @@ html {
 
 h1 {
     text-align: center;
-
     padding: 10px 40px 20px 40px;
 }
 
 #placeholder_text {
-    text-align: center;
-    padding: 1em
+    text-align: justify;
+    padding: 1.5em
 }
 
-#telegramlogo {
+#telegram_logo {
     width: 50px;
     height: auto;
     padding: 20px;
     border-top: 0.1rem;
     border-left: 0.1rem;
     margin: 0.1rem;
+}
+
+p {
+    line-height: 1.2em;
 }
