@@ -9,26 +9,46 @@
     font-style: normal;
     font-variant: normal;
     text-transform: none;
-    background-color: rgb(245, 245, 245);
 }
 
+/* Title */
 h1 {
     font-size: 48px;
-    font-style: oblique;
+    /* font-style: oblique; */
     text-align: center;
-    padding: 10px 20px 10px 20px;
+    padding: 5px 10px 5px 10px;
 }
 
-.profile_pic {
-    display: flex;
-    flex-direction: row;
-    weight: 250px;
-    height: 250px;
-    padding: 1%;
-}
-
+/* Example text*/
 .loremipsum {
     text-align: justify;
-    padding: 0.5em;
-    gap: 1%;
+    /* gap: 1%; */
+}
+
+/* Div */
+.div1 {
+    padding: 1em;
+}
+
+.div2 {
+    position:absolute;
+    padding: 1em;
+}
+
+/* Div image */
+.img {
+    display: flex;
+    flex-direction: row;
+    position: center;
+    padding: 1em;
+}
+
+/* Image */
+.profile_pic {
+    /* top: 200px;
+    left: 200px; */
+    border: 1em;
+    width: 50%;
+    height: auto;
+    padding: 1em;
 }
