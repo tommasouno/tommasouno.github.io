@@ -22,13 +22,12 @@ h1 {
     text-align: justify;
 } */
 
-.div1 {
-    padding: 1em;
+h1 {
+text-align: center;
 }
-
-.div2 {
-    position:absolute;
+.div1, .div2 {
     padding: 1em;
+    text-align: justify;
 }
 
 .img {
